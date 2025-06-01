@@ -46,14 +46,3 @@ This project was developed as a team effort during our final year of B.Tech in I
 - Matplotlib (visualization)
 
 ---
-
-## 🤝 Acknowledgments
-
-- Special thanks to the creators of the RAVDESS and FER2013 datasets for providing valuable resources for this project.
-- Thanks to our professors and peers for their support during the development of this project.
-
----
-
-## 📧 Contact
-
-For any inquiries, please reach out to [hariamarnath2003@gmail.com].
